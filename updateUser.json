@@ -1,0 +1,23 @@
+{
+  "id": 45,
+  "name": "Itsko Dmitro",
+  "username": "ITSDM",
+  "email": "dima.itsko@gmail.com",
+  "address": {
+    "street": "street",
+    "suite": "77",
+    "city": "Chernihiv",
+    "zipcode": "14000",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "380633556957",
+  "website": "typicode.com",
+  "company": {
+    "name": "GoIt",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+}
